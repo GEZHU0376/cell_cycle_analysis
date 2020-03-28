@@ -8,7 +8,6 @@ Pipeline overview:
 
 ## Author
 Ge Zhu < zhu.ge@husky.neu.edu>
-Data Source：
 
 ## Data Source/Reference:
 External URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC25624/
